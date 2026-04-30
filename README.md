@@ -2,7 +2,7 @@
 
 🔐 **Free, secure password generator with cryptographic strength**
 
-**Live Site:** https://aginpappy.github.io/password-generator/
+**Live Site:** https://aginpappy.github.io/Password-Generator/
 
 ---
 
