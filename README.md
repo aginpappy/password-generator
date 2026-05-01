@@ -1,4 +1,4 @@
-# PassForge - Secure Password Generator
+# Supass - Secure Password Generator
 
 🔐 **Free, secure password generator with cryptographic strength**
 
